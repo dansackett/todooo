@@ -13,7 +13,7 @@ you want.
 Installation can be done via PyPI and it's suggested to install globally.
 
 ```
-pip install todooo
+pip install todooo-cli
 ```
 
 ## Usage
