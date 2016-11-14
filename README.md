@@ -30,14 +30,14 @@ Once inside the application, you have the following options:
 
 | Command   | Description                                       | Arguments                     |
 |-----------|---------------------------------------------------|-------------------------------|
-| `add`     | Add a new item to the current list                | <ITEM CONTENT>                |
-| `del`     | Delete an item from the current list              | <ITEM ID>                     |
+| `add`     | Add a new item to the current list                | (ITEM CONTENT)                |
+| `del`     | Delete an item from the current list              | (ITEM ID)                     |
 | `exit`    | Exit the application                              | -                             |
 | `help`    | Show the command menu                             | -                             |
 | `lists`   | Show all available lists                          | -                             |
-| `move`    | Move an item in the current list                  | <FROM ITEM ID> <TO ITEM ID>   |
-| `new`     | Create a new list                                 | <LIST NAME>                   |
-| `replace` | Replace an item in the current list with another  | <ITEM ID> <NEW ITEM CONTENT>  |
-| `rmlist`  | Remove an existing list                           | <LIST NAME>                   |
+| `move`    | Move an item in the current list                  | (FROM ITEM ID) (TO ITEM ID)   |
+| `new`     | Create a new list                                 | (LIST NAME)                   |
+| `replace` | Replace an item in the current list with another  | (ITEM ID) (NEW ITEM CONTENT)  |
+| `rmlist`  | Remove an existing list                           | (LIST NAME)                   |
 | `show`    | Show the current list items                       | -                             |
-| `use`     | Set the current list                              | <LIST NAME>                   |
+| `use`     | Set the current list                              | (LIST NAME)                   |
